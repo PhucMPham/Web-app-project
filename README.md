@@ -21,7 +21,7 @@ application up and running.
 
             $ rails db:seed
             
-By default, seed.rb only generates 10 stores. You can change this number by edit the number in ~/Webapp/db/seeds.rb
+By default, seed.rb only generates 10 random stores. You can change this number by edit the number in ~/Webapp/db/seeds.rb
             NUMBER_OF. times do
 
 6. Finally, you can now fire up the server on your local host (http://localhost:3000)
