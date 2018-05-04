@@ -29,5 +29,3 @@ By default, seed.rb only generates 10 stores. You can change this number by edit
             $ bin/rails server 
     
     
-
-# Webapp
